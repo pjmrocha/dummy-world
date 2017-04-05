@@ -1,1 +1,1 @@
-SELECT COUNT(Fail) FROM Results
+SELECT Test FROM Results
